@@ -1,0 +1,701 @@
+[
+    {
+        "itemName": "Empty",
+        "moneyPerSecond": 0,
+        "img": null
+    },
+    {
+        "itemName": "Wolf Arrows",
+        "moneyPerSecond": 11,
+        "img": "/imgs/ar_t_01.png"
+    },
+    {
+        "itemName": "Venom Arrow",
+        "moneyPerSecond": 12,
+        "img": "/imgs/ar_t_02.png"
+    },
+    {
+        "itemName": "Grenade",
+        "moneyPerSecond": 13,
+        "img": "/imgs/bl_t_01.png"
+    },
+    {
+        "itemName": "Steady Arrow",
+        "moneyPerSecond": 14,
+        "img": "/imgs/t_f_04.png"
+    },
+    {
+        "itemName": "Hatchet",
+        "moneyPerSecond": 16,
+        "img": "/imgs/axe_t_01.png"
+    },
+    {
+        "itemName": "Bone Edge",
+        "moneyPerSecond": 18,
+        "img": "/imgs/axe_t_02.png"
+    },
+    {
+        "itemName": "Stone Slicer",
+        "moneyPerSecond": 20,
+        "img": "/imgs/axe_t_03.png"
+    },
+    {
+        "itemName": "Halbard",
+        "moneyPerSecond": 23,
+        "img": "/imgs/axe_t_04.png"
+    },
+    {
+        "itemName": "Hate's Hand",
+        "moneyPerSecond": 26,
+        "img": "/imgs/axe_t_05.png"
+    },
+    {
+        "itemName": "Steel Axe",
+        "moneyPerSecond": 29,
+        "img": "/imgs/axe_t_06.png"
+    },
+    {
+        "itemName": "Simple Hatchet",
+        "moneyPerSecond": 33,
+        "img": "/imgs/axe_t_07.png"
+    },
+    {
+        "itemName": "Volcano Axe",
+        "moneyPerSecond": 37,
+        "img": "/imgs/axe_t_08.PNG"
+    },
+    {
+        "itemName": "Heavy Hitter",
+        "moneyPerSecond": 42,
+        "img": "/imgs/axe_t_09.png"
+    },
+    {
+        "itemName": "Basic Axe",
+        "moneyPerSecond": 48,
+        "img": "/imgs/axe_t_10.png"
+    },
+    {
+        "itemName": "Basic Pick",
+        "moneyPerSecond": 55,
+        "img": "/imgs/axe_t_11.PNG"
+    },
+    {
+        "itemName": "Cleaver",
+        "moneyPerSecond": 63,
+        "img": "/imgs/axe_t_12.PNG"
+    },
+    {
+        "itemName": "Rune Axe",
+        "moneyPerSecond": 72,
+        "img": "/imgs/axe_t_13.PNG"
+    },
+    {
+        "itemName": "Throwing Axe",
+        "moneyPerSecond": 82,
+        "img": "/imgs/a_n_t_01.png"
+    },
+    {
+        "itemName": "Mystic Axe",
+        "moneyPerSecond": 94,
+        "img": "/imgs/a_n_t_02.png"
+    },
+    {
+        "itemName": "Bat Wing Axe",
+        "moneyPerSecond": 108,
+        "img": "/imgs/a_n_t_03.png"
+    },
+    {
+        "itemName": "Stone Hatchet",
+        "moneyPerSecond": 124,
+        "img": "/imgs/a_n_t_04.png"
+    },
+    {
+        "itemName": "Warrior's Axe",
+        "moneyPerSecond": 142,
+        "img": "/imgs/a_n_t_05.png"
+    },
+    {
+        "itemName": "Hunter's Axe",
+        "moneyPerSecond": 163,
+        "img": "/imgs/t_f_01.png"
+    },
+    {
+        "itemName": "Emerald Throwing Axe",
+        "moneyPerSecond": 187,
+        "img": "/imgs/t_f_02.png"
+    },
+    {
+        "itemName": "Simple Bow",
+        "moneyPerSecond": 215,
+        "img": "/imgs/b_t_01.png"
+    },
+    {
+        "itemName": "Stone Bow",
+        "moneyPerSecond": 247,
+        "img": "/imgs/b_t_02.png"
+    },
+    {
+        "itemName": "Teak Bow",
+        "moneyPerSecond": 284,
+        "img": "/imgs/b_t_03.png"
+    },
+    {
+        "itemName": "Elven Bow",
+        "moneyPerSecond": 326,
+        "img": "/imgs/b_t_04.png"
+    },
+    {
+        "itemName": "Yew Bow",
+        "moneyPerSecond": 374,
+        "img": "/imgs/b_t_05.png"
+    },
+    {
+        "itemName": "Bone Brawler",
+        "moneyPerSecond": 430,
+        "img": "/imgs/f_t_01.png"
+    },
+    {
+        "itemName": "Stone Brawler",
+        "moneyPerSecond": 494,
+        "img": "/imgs/f_t_02.PNG"
+    },
+    {
+        "itemName": "Brass Brawler",
+        "moneyPerSecond": 568,
+        "img": "/imgs/f_t_03.png"
+    },
+    {
+        "itemName": "Steel Brawler",
+        "moneyPerSecond": 653,
+        "img": "/imgs/f_t_04.png"
+    },
+    {
+        "itemName": "Diamond Slicer",
+        "moneyPerSecond": 750,
+        "img": "/imgs/f_t_05.png"
+    },
+    {
+        "itemName": "Bone Shiv",
+        "moneyPerSecond": 862,
+        "img": "/imgs/f_t_06.PNG"
+    },
+    {
+        "itemName": "Steel Claw",
+        "moneyPerSecond": 991,
+        "img": "/imgs/f_t_07.PNG"
+    },
+    {
+        "itemName": "Royal Shiv",
+        "moneyPerSecond": 1139,
+        "img": "/imgs/f_t_08.PNG"
+    },
+    {
+        "itemName": "Face Melter",
+        "moneyPerSecond": 1309,
+        "img": "/imgs/bl_f_t_01.png"
+    },
+    {
+        "itemName": "Burglar's Bruiser",
+        "moneyPerSecond": 1505,
+        "img": "/imgs/bl_t_01.png"
+    },
+    {
+        "itemName": "Spotted Mace",
+        "moneyPerSecond": 1730,
+        "img": "/imgs/bl_t_02.png"
+    },
+    {
+        "itemName": "Headache",
+        "moneyPerSecond": 1989,
+        "img": "/imgs/bl_t_03.png"
+    },
+    {
+        "itemName": "Hell Snowball",
+        "moneyPerSecond": 2287,
+        "img": "/imgs/bl_t_04.PNG"
+    },
+    {
+        "itemName": "Temple Tickler",
+        "moneyPerSecond": 2630,
+        "img": "/imgs/bl_t_05.PNG"
+    },
+    {
+        "itemName": "Skull Crusher",
+        "moneyPerSecond": 3024,
+        "img": "/imgs/bl_t_06.PNG"
+    },
+    {
+        "itemName": "Heavy Hitter",
+        "moneyPerSecond": 3477,
+        "img": "/imgs/bl_t_07.PNG"
+    },
+    {
+        "itemName": "Ball and Chain",
+        "moneyPerSecond": 3998,
+        "img": "/imgs/bl_t_08.png"
+    },
+    {
+        "itemName": "Simple Flail",
+        "moneyPerSecond": 4597,
+        "img": "/imgs/bl_t_09.png"
+    },
+    {
+        "itemName": "Human Cleaver",
+        "moneyPerSecond": 5286,
+        "img": "/imgs/bl_t_10.png"
+    },
+    {
+        "itemName": "Blunt Instrument",
+        "moneyPerSecond": 6078,
+        "img": "/imgs/bl_t_11.PNG"
+    },
+    {
+        "itemName": "Simple Crossbow",
+        "moneyPerSecond": 6989,
+        "img": "/imgs/a_t_01.PNG"
+    },
+    {
+        "itemName": "Bronze Crossbow",
+        "moneyPerSecond": 8037,
+        "img": "/imgs/a_t_02.PNG"
+    },
+    {
+        "itemName": "Fallen Angel",
+        "moneyPerSecond": 9242,
+        "img": "/imgs/a_t_03.PNG"
+    },
+    {
+        "itemName": "Ballista",
+        "moneyPerSecond": 10628,
+        "img": "/imgs/a_t_04.png"
+    },
+    {
+        "itemName": "Simple Dagger",
+        "moneyPerSecond": 12222,
+        "img": "/imgs/kn_t_01.png"
+    },
+    {
+        "itemName": "Spleen Tickler",
+        "moneyPerSecond": 14055,
+        "img": "/imgs/kn_t_02.png"
+    },
+    {
+        "itemName": "Gut Slicer",
+        "moneyPerSecond": 16163,
+        "img": "/imgs/kn_t_03.png"
+    },
+    {
+        "itemName": "Simple Shiv",
+        "moneyPerSecond": 18587,
+        "img": "/imgs/kn_t_04.png"
+    },
+    {
+        "itemName": "Bone Slicer",
+        "moneyPerSecond": 21375,
+        "img": "/imgs/kn_t_05.png"
+    },
+    {
+        "itemName": "Bat Dagger",
+        "moneyPerSecond": 24581,
+        "img": "/imgs/kn_t_06.png"
+    },
+    {
+        "itemName": "Fat Dagger",
+        "moneyPerSecond": 28268,
+        "img": "/imgs/kn_t_07.png"
+    },
+    {
+        "itemName": "Basic Dagger",
+        "moneyPerSecond": 32508,
+        "img": "/imgs/kn_t_08.png"
+    },
+    {
+        "itemName": "Throwing Knife",
+        "moneyPerSecond": 37384,
+        "img": "/imgs/kn_t_09.PNG"
+    },
+    {
+        "itemName": "Crescent Moon",
+        "moneyPerSecond": 42991,
+        "img": "/imgs/kn_t_10.PNG"
+    },
+    {
+        "itemName": "Catholic Needle",
+        "moneyPerSecond": 49439,
+        "img": "/imgs/kn_t_11.PNG"
+    },
+    {
+        "itemName": "Impractical Dagger",
+        "moneyPerSecond": 56854,
+        "img": "/imgs/k_nt_01.png"
+    },
+    {
+        "itemName": "Rough Tide",
+        "moneyPerSecond": 65382,
+        "img": "/imgs/k_nt_02.png"
+    },
+    {
+        "itemName": "Jungle Dagger",
+        "moneyPerSecond": 75189,
+        "img": "/imgs/k_nt_03.png"
+    },
+    {
+        "itemName": "Steel Dagger",
+        "moneyPerSecond": 86467,
+        "img": "/imgs/k_nt_04.png"
+    },
+    {
+        "itemName": "Kidney Carver",
+        "moneyPerSecond": 99437,
+        "img": "/imgs/k_nt_05.png"
+    },
+    {
+        "itemName": "Bronze Dagger",
+        "moneyPerSecond": 114352,
+        "img": "/imgs/k_nt_06.png"
+    },
+    {
+        "itemName": "Knight's Knife",
+        "moneyPerSecond": 131504,
+        "img": "/imgs/t_f_03.png"
+    },
+    {
+        "itemName": "Basic Shotgun",
+        "moneyPerSecond": 151229,
+        "img": "/imgs/gun_t_01.png"
+    },
+    {
+        "itemName": "Hand Cannon",
+        "moneyPerSecond": 173913,
+        "img": "/imgs/gun_t_02.png"
+    },
+    {
+        "itemName": "Noob Tube",
+        "moneyPerSecond": 199999,
+        "img": "/imgs/gun_t_03.png"
+    },
+    {
+        "itemName": "Death Funnel",
+        "moneyPerSecond": 229998,
+        "img": "/imgs/gun_t_04.png"
+    },
+    {
+        "itemName": "Pirate Blaster",
+        "moneyPerSecond": 264497,
+        "img": "/imgs/gun_t_05.png"
+    },
+    {
+        "itemName": "Gentleman's Pistol",
+        "moneyPerSecond": 304171,
+        "img": "/imgs/gun_t_06.png"
+    },
+    {
+        "itemName": "Ornate Pistol",
+        "moneyPerSecond": 349796,
+        "img": "/imgs/gun_t_07.png"
+    },
+    {
+        "itemName": "Fancy Cannon",
+        "moneyPerSecond": 402265,
+        "img": "/imgs/gun_t_08.PNG"
+    },
+    {
+        "itemName": "Stone Hammer",
+        "moneyPerSecond": 462604,
+        "img": "/imgs/hmmr_f_t_01.png"
+    },
+    {
+        "itemName": "Blunt Hammer",
+        "moneyPerSecond": 531994,
+        "img": "/imgs/hm_t_01.png"
+    },
+    {
+        "itemName": "Purple Mallet",
+        "moneyPerSecond": 611793,
+        "img": "/imgs/hm_t_02.png"
+    },
+    {
+        "itemName": "Crude Hammer",
+        "moneyPerSecond": 703561,
+        "img": "/imgs/hm_t_03.png"
+    },
+    {
+        "itemName": "Gilded Whacker",
+        "moneyPerSecond": 809095,
+        "img": "/imgs/hm_t_04.png"
+    },
+    {
+        "itemName": "Stone Whacker",
+        "moneyPerSecond": 930459,
+        "img": "/imgs/hm_t_05.PNG"
+    },
+    {
+        "itemName": "Precise Death",
+        "moneyPerSecond": 1070027,
+        "img": "/imgs/hm_t_06.png"
+    },
+    {
+        "itemName": "Brick Hammer",
+        "moneyPerSecond": 1230531,
+        "img": "/imgs/hm_t_07.png"
+    },
+    {
+        "itemName": "Onyx Hammer",
+        "moneyPerSecond": 1415110,
+        "img": "/imgs/hm_t_08.png"
+    },
+    {
+        "itemName": "Ornate Hammer",
+        "moneyPerSecond": 1627376,
+        "img": "/imgs/hm_t_09.png"
+    },
+    {
+        "itemName": "Heavy Hammer",
+        "moneyPerSecond": 1871482,
+        "img": "/imgs/hm_t_10.png"
+    },
+    {
+        "itemName": "Golden Hammer",
+        "moneyPerSecond": 2152204,
+        "img": "/imgs/hm_t_11.PNG"
+    },
+    {
+        "itemName": "Wooden Mallet",
+        "moneyPerSecond": 2475034,
+        "img": "/imgs/hm_t_12.PNG"
+    },
+    {
+        "itemName": "Simple Pike",
+        "moneyPerSecond": 2846289,
+        "img": "/imgs/sp_t_01.png"
+    },
+    {
+        "itemName": "Fish Gutter",
+        "moneyPerSecond": 3273232,
+        "img": "/imgs/sp_t_02.png"
+    },
+    {
+        "itemName": "Spine Tickler",
+        "moneyPerSecond": 3764216,
+        "img": "/imgs/sp_t_03.png"
+    },
+    {
+        "itemName": "Ice Halberd",
+        "moneyPerSecond": 4328848,
+        "img": "/imgs/sp_t_04.png"
+    },
+    {
+        "itemName": "Trident",
+        "moneyPerSecond": 4978175,
+        "img": "/imgs/sp_t_05.PNG"
+    },
+    {
+        "itemName": "Agile Death",
+        "moneyPerSecond": 5724901,
+        "img": "/imgs/sp_t_06.PNG"
+    },
+    {
+        "itemName": "Death's Hand",
+        "moneyPerSecond": 6583636,
+        "img": "/imgs/sp_t_07.PNG"
+    },
+    {
+        "itemName": "Fire Pike",
+        "moneyPerSecond": 7571181,
+        "img": "/imgs/sp_t_08.PNG"
+    },
+    {
+        "itemName": "Basic Staff",
+        "moneyPerSecond": 8706858,
+        "img": "/imgs/sp_t_09.png"
+    },
+    {
+        "itemName": "Teak Staff",
+        "moneyPerSecond": 10012886,
+        "img": "/imgs/stf_t_01.png"
+    },
+    {
+        "itemName": "Blunt Staff",
+        "moneyPerSecond": 11514818,
+        "img": "/imgs/st_t_01.png"
+    },
+    {
+        "itemName": "Ocean's Fury",
+        "moneyPerSecond": 13242040,
+        "img": "/imgs/st_t_02.png"
+    },
+    {
+        "itemName": "Wizard's Walker",
+        "moneyPerSecond": 15228346,
+        "img": "/imgs/st_t_03.png"
+    },
+    {
+        "itemName": "Jungle's Grasp",
+        "moneyPerSecond": 17512597,
+        "img": "/imgs/st_t_04.png"
+    },
+    {
+        "itemName": "Blood Orb Staff",
+        "moneyPerSecond": 20139486,
+        "img": "/imgs/st_t_05.png"
+    },
+    {
+        "itemName": "Void Staff",
+        "moneyPerSecond": 23160408,
+        "img": "/imgs/st_t_06.png"
+    },
+    {
+        "itemName": "Nature's Birth",
+        "moneyPerSecond": 26634469,
+        "img": "/imgs/st_t_07.png"
+    },
+    {
+        "itemName": "Watchful Staff",
+        "moneyPerSecond": 30629639,
+        "img": "/imgs/st_t_08.png"
+    },
+    {
+        "itemName": "Shaman's Stick",
+        "moneyPerSecond": 35224084,
+        "img": "/imgs/st_t_09.png"
+    },
+    {
+        "itemName": "Cardinal's Staff",
+        "moneyPerSecond": 40507696,
+        "img": "/imgs/st_t_10.PNG"
+    },
+    {
+        "itemName": "Gilded Sword",
+        "moneyPerSecond": 46583850,
+        "img": "/imgs/st_t_11.PNG"
+    },
+    {
+        "itemName": "Sparring Sword",
+        "moneyPerSecond": 53571427,
+        "img": "/imgs/sv_t_01.png"
+    },
+    {
+        "itemName": "Onxy Hilt",
+        "moneyPerSecond": 61607141,
+        "img": "/imgs/sv_t_02.png"
+    },
+    {
+        "itemName": "Bat Sword",
+        "moneyPerSecond": 70848212,
+        "img": "/imgs/sv_t_03.png"
+    },
+    {
+        "itemName": "Neck Slicer",
+        "moneyPerSecond": 81475443,
+        "img": "/imgs/sv_t_04.png"
+    },
+    {
+        "itemName": "Royal Blade",
+        "moneyPerSecond": 93696759,
+        "img": "/imgs/sv_t_05.png"
+    },
+    {
+        "itemName": "Knight's Sword",
+        "moneyPerSecond": 107751272,
+        "img": "/imgs/sv_t_06.png"
+    },
+    {
+        "itemName": "Fatty Sword",
+        "moneyPerSecond": 123913962,
+        "img": "/imgs/sv_t_07.png"
+    },
+    {
+        "itemName": "Scimitar",
+        "moneyPerSecond": 142501056,
+        "img": "/imgs/sv_t_08.PNG"
+    },
+    {
+        "itemName": "Tummy Tickler",
+        "moneyPerSecond": 163876214,
+        "img": "/imgs/sv_t_09.png"
+    },
+    {
+        "itemName": "Void Sword",
+        "moneyPerSecond": 188457646,
+        "img": "/imgs/sv_t_10.png"
+    },
+    {
+        "itemName": "Void Katana",
+        "moneyPerSecond": 216726292,
+        "img": "/imgs/sv_t_11.PNG"
+    },
+    {
+        "itemName": "Quick Sword",
+        "moneyPerSecond": 249235235,
+        "img": "/imgs/sv_t_12.PNG"
+    },
+    {
+        "itemName": "Gut Ripper",
+        "moneyPerSecond": 286620520,
+        "img": "/imgs/sv_t_13.PNG"
+    },
+    {
+        "itemName": "Onyx Throwing Knife",
+        "moneyPerSecond": 329613598,
+        "img": "/imgs/sv_t_14.png"
+    },
+    {
+        "itemName": "Broad Sword",
+        "moneyPerSecond": 379055637,
+        "img": "/imgs/sv_t_15.PNG"
+    },
+    {
+        "itemName": "Kukri",
+        "moneyPerSecond": 435913982,
+        "img": "/imgs/swnt_01.png"
+    },
+    {
+        "itemName": "Ancient Sword",
+        "moneyPerSecond": 501301079,
+        "img": "/imgs/swnt_02.png"
+    },
+    {
+        "itemName": "Light Sword",
+        "moneyPerSecond": 576496240,
+        "img": "/imgs/swnt_03.png"
+    },
+    {
+        "itemName": "Ornamental Sword",
+        "moneyPerSecond": 662970676,
+        "img": "/imgs/swnt_04.png"
+    },
+    {
+        "itemName": "Bastard Blade",
+        "moneyPerSecond": 762416277,
+        "img": "/imgs/swnt_05.png"
+    },
+    {
+        "itemName": "Mine",
+        "moneyPerSecond": 876778718,
+        "img": "/imgs/swnt_06.png"
+    },
+    {
+        "itemName": "Shuriken",
+        "moneyPerSecond": 1008295525,
+        "img": "/imgs/m_t_01.png"
+    },
+    {
+        "itemName": "Smoke Bomb",
+        "moneyPerSecond": 1159539853,
+        "img": "/imgs/m_t_02.png"
+    },
+    {
+        "itemName": "Ninjy Star",
+        "moneyPerSecond": 1333470830,
+        "img": "/imgs/m_t_03.png"
+    },
+    {
+        "itemName": "Ninjy Shiv",
+        "moneyPerSecond": 1533491454,
+        "img": "/imgs/m_t_04.png"
+    },
+    {
+        "moneyPerSecond": 1763515172,
+        "img": "/imgs/m_t_05.png"
+    }
+]
